@@ -2,10 +2,12 @@ import React from 'react';
 import './App.css';
 //JSX Sintaxe de XML dentro do Javascript
 
+import Home from './pages/Home';
+
 
 function App() {
   return (
-    <h1>Hello World</h1> 
+    <Home />
   );
 }
 
