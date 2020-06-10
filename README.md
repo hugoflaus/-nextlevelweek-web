@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://ik.imagekit.io/vglod4qqhy/NextLevelWeek/Captura_de_tela_de_2020-06-08_06-19-42_Fi61itHBJ.png">
+  <img src="https://ik.imagekit.io/vglod4qqhy/NextLevelWeek/Captura_de_tela_de_2020-06-10_07-35-56_dPkrJL4iu.png">
 </h1>
 
 ## 📄Sobre
@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   # Instalar as dependências npm ou yarn
   $ npm install
-  
+
   # Iniciar o projeto
   $ npm run start
 ```
