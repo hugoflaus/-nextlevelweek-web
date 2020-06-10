@@ -29,5 +29,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ npm install
 
   # Iniciar o projeto
-  $ npm run start
+  $ npm start
 ```
